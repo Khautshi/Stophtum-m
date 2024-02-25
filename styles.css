@@ -103,11 +103,11 @@
 }
 
 .sn .hobit {
-    color: slategray;
+    color: lightslategray;
 }
 
 .sn {
-    border-color: slategray;
+    border-color: lightslategray;
 }
 
 .luft .hobit {
@@ -119,11 +119,11 @@
 }
 
 .iske .hobit {
-    color: #A8D1D1;
+    color: #546868;
 }
 
 .iske {
-    border-color: #A8D1D1;
+    border-color: #546868;
 }
 
 .kiwen .hobit {
