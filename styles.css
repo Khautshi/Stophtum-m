@@ -1,0 +1,158 @@
+.baksu {
+    font-family: sans-serif;
+    background: #f8f9fa;
+    border: 1px solid #a2a9b1;
+    padding: 5px;
+    margin: auto;
+    width: fit-content;
+    height: fit-content;
+}
+
+.atama {
+    text-align: center;
+    font-weight: bold;
+    font-size: 80%;
+    margin: auto;
+    padding: 5px;
+}
+
+.oba {
+    background: #d8d8d8;
+    text-align: center;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.sen {
+    display: grid;
+    grid-template-columns: 20px repeat(18, 55px);
+    grid-template-rows: 1fr;
+}
+
+.stof {
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 5px;
+    margin: 1px;
+    border-width: 2px;
+    border-radius: 5%;
+}
+
+.lasku {
+    text-align: left;
+    font-weight: bold;
+    font-size: 60%
+}
+
+.veht {
+    text-align: right;
+    font-size: 40%
+}
+
+.hobit {
+    grid-column: span 2;
+    text-align: center;
+    padding: 5px;
+    font-weight: bold;
+}
+
+.namaj {
+    grid-column: span 2;
+    text-align: center;
+    font-size: 50%
+}
+
+.kaban-a {
+    background: #9EA1D4;
+}
+
+.kaban-b {
+    background: #A8ACD0;
+}
+
+.kaban-c {
+    background: #B3B7CC;
+}
+
+.kaban-d {
+    background: #BDC1C8;
+}
+
+.kaban-e {
+    background: #C8CCC5;
+}
+
+.kaban-f {
+    background: #D2D7C1;
+}
+
+.kaban-g {
+    background: #DCE2BD;
+}
+
+.kaban-h {
+    background: #E7ECB9;
+}
+
+.kaban-i {
+    background: #F1F7B5;
+}
+
+.kaban-sn {
+    background: white;
+}
+
+.sn .hobit {
+    color: slategray;
+}
+
+.sn {
+    border-color: slategray;
+}
+
+.luft .hobit {
+    color: #FD8A8A;
+}
+
+.luft {
+    border-color: #FD8A8A;
+}
+
+.iske .hobit {
+    color: #A8D1D1;
+}
+
+.iske {
+    border-color: #A8D1D1;
+}
+
+.kiwen .hobit {
+    color: black;
+}
+
+.kiwen {
+    border-color: black;
+}
+
+.gam {
+    border-bottom-style: solid;
+}
+
+.neo {
+    border-bottom-style: dashed;
+}
+
+.mah {
+    border-bottom-style: dotted;
+}
+
+.nen {
+    width: 20px;
+    height: 20px;
+    margin: auto;
+    border-radius: 5%;
+}
+
+.test {
+    border: solid black;
+}
