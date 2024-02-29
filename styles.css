@@ -4,8 +4,12 @@
     border: 1px solid #a2a9b1;
     padding: 5px;
     margin: auto;
-    width: fit-content;
-    height: fit-content;
+}
+
+.baksunen {
+    margin: 0px;
+    margin-block: 0px;
+    text-align: center;
 }
 
 .atama {
@@ -25,7 +29,7 @@
 
 .sen {
     display: grid;
-    grid-template-columns: 20px repeat(18, 55px);
+    grid-template-columns: 20px repeat(18, 1fr);
     grid-template-rows: 1fr;
 }
 
